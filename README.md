@@ -7,7 +7,7 @@ Calculator is a simple and interactive web application that allows users to perf
 ### Run locally
 1. Clone the repository:
 ```bash
-git clone https://github.com/potatopotati/My-Terrarium.git
+git clone https://github.com/potatopotati/Calculator.git
 ```
 2. Navigate into the project directory:
 ```bash
